@@ -1,0 +1,15 @@
+/Users/joe/Projects/CSharp/Bank/Bank/Bank/bin/Debug/net6.0/Bank
+/Users/joe/Projects/CSharp/Bank/Bank/Bank/bin/Debug/net6.0/Bank.deps.json
+/Users/joe/Projects/CSharp/Bank/Bank/Bank/bin/Debug/net6.0/Bank.runtimeconfig.json
+/Users/joe/Projects/CSharp/Bank/Bank/Bank/bin/Debug/net6.0/Bank.dll
+/Users/joe/Projects/CSharp/Bank/Bank/Bank/bin/Debug/net6.0/Bank.pdb
+/Users/joe/Projects/CSharp/Bank/Bank/Bank/obj/Debug/net6.0/Bank.csproj.AssemblyReference.cache
+/Users/joe/Projects/CSharp/Bank/Bank/Bank/obj/Debug/net6.0/Bank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joe/Projects/CSharp/Bank/Bank/Bank/obj/Debug/net6.0/Bank.AssemblyInfoInputs.cache
+/Users/joe/Projects/CSharp/Bank/Bank/Bank/obj/Debug/net6.0/Bank.AssemblyInfo.cs
+/Users/joe/Projects/CSharp/Bank/Bank/Bank/obj/Debug/net6.0/Bank.csproj.CoreCompileInputs.cache
+/Users/joe/Projects/CSharp/Bank/Bank/Bank/obj/Debug/net6.0/Bank.dll
+/Users/joe/Projects/CSharp/Bank/Bank/Bank/obj/Debug/net6.0/refint/Bank.dll
+/Users/joe/Projects/CSharp/Bank/Bank/Bank/obj/Debug/net6.0/Bank.pdb
+/Users/joe/Projects/CSharp/Bank/Bank/Bank/obj/Debug/net6.0/Bank.genruntimeconfig.cache
+/Users/joe/Projects/CSharp/Bank/Bank/Bank/obj/Debug/net6.0/ref/Bank.dll
