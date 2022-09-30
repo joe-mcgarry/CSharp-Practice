@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "eGQahr0uO0rnFO1LkIOfMrI2Yqyibs8z/iDfOGEjF9I=",
+  "Hash": "ZqK7xnj1p/PDwaJHfbMCpVTDAYLgd7MhdvE8dlsLpGs=",
   "Source": "BlazorMatchGame",
   "BasePath": "/",
   "Mode": "Root",
@@ -7087,23 +7087,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/index.html"
-    },
-    {
-      "Identity": "/Users/joe/Projects/CSharp/HeadFirst/BlazorMatchGame/BlazorMatchGame/wwwroot/sample-data/weather.json",
-      "SourceId": "BlazorMatchGame",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/joe/Projects/CSharp/HeadFirst/BlazorMatchGame/BlazorMatchGame/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "sample-data/weather.json",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/sample-data/weather.json"
     }
   ]
 }
